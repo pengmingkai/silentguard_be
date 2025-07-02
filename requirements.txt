@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-RESTful==0.3.10
+Flask-CORS==4.0.0
+PyMySQL==1.1.0
+cryptography==41.0.7
+python-dotenv==1.0.0
+marshmallow==3.20.1
+requests==2.31.0
+
